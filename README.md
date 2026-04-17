@@ -5,8 +5,10 @@
 
 I am Monika Borgaonkar
 
-- A software industry veteran for 24 years now, speaker at TechReady and Build conferences and on panel expert at Dreamforce.
-- Pioneered the efforts for starting women's cricket team in Seattle
+
+- Developer, Systems Engineer, Lead Architect, Tech Lead, Manager, Speaker at TechReady and Build conferences and on panel expert at Dreamforce.
+- Pioneered the efforts for starting women's cricket team in Seattle.
+- Love light hikes and play board games.
 
 **Major Publications -** 
 - https://www.microsoft.com/en-us/download/details.aspx?id=12108 ⇒ Contributed content to this white paper explaining authN, authZ and overall security model implemented in Dynamics CRM.
