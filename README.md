@@ -14,7 +14,7 @@ I am Monika Borgaonkar
 - https://www.microsoft.com/en-us/download/details.aspx?id=2684  ⇒ Contributed content for this white paper, explaining how ACtive Directory federation Service is to be used for Internet facing deployment of Dynamics CRM 
 - https://medium.com/@davinciwords/http-connection-pooling-handling-post-redirects-as-post-c908266768b2 ⇒ Published this article based on some observations w.r.t a production incident observed in Salesforce.
 
-**Major Feature Contributions & Creator of** - 
+**Major Feature Contributions & Creator of -**
 - Started the first single person security team in Microsoft Dynamics CRM and grew the team to span across multiple offices and also managed Performance team for 
  entire Microsoft Dynamics CRM.
 - Established cross product collaboration practices for security and performance acros Microsoft Dynamics CRM, Sharepoint and Microsoft Office security teams.
@@ -30,7 +30,7 @@ I am Monika Borgaonkar
 - Developer of https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_salesaiscoremodelfactor.htm
 - Implemented Cloud to Cloud Authentication backend modules for Authenticating requests between Salesforce and AWS services and between Core and Einstein cloud of Salesforce.
 
-**Major Architectural Contributions - **
+**Major Architectural Contributions -**
 - Led the architectural design and implementation of fintech & issuer Billing service
 - Led the architectural design and implementation of fintech authorizations for allowing usage of VISA APIs
 - Led the architectural design and implementation of sandboxing content uploads before they are deemed secure for further distribution
