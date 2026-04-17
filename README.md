@@ -6,7 +6,8 @@
 I am Monika Borgaonkar
 
 
-- Developer, Systems Engineer, Lead Architect, Tech Lead, Manager, Speaker at TechReady and Build conferences and on panel expert at Dreamforce.
+- Developer, Systems Engineer, Lead Architect, Tech Lead, Technical Manager, Speaker at TechReady and Build conferences, On panel expert at Dreamforce.
+- Mastered the art of becoming the "goto" person for all features/services/products I have owned.
 - Pioneered the efforts for starting women's cricket team in Seattle.
 - Love light hikes and play board games.
 
