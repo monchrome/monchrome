@@ -5,7 +5,7 @@
 
 I am Monika Borgaonkar
 
-- A softeare industry veteran for 24 years now, A speaker at TechReady and Build conference and  on panel expert at Dreamforce.
+- A software industry veteran for 24 years now, speaker at TechReady and Build conferences and on panel expert at Dreamforce.
 - Pioneered the efforts for starting women's cricket team in Seattle
 
 **Major Publications -** 
@@ -33,10 +33,9 @@ I am Monika Borgaonkar
 **Major Architectural Contributions - **
 - Led the architectural design and implementation of fintech & issuer Billing service
 - Led the architectural design and implementation of fintech authorizations for allowing usage of VISA APIs
-- Designed solution for sandboxing content uploads before they are deemed secure for further distribution
-- Designed solution for verification of user/feature permissions for usage of Salesforce Opportunity Scoring 
-- Designed solution for cloud to cloud authentication for feature provisioning
+- Led the architectural design and implementation of sandboxing content uploads before they are deemed secure for further distribution
+- Led the architectural design and implementation of verification of user/feature permissions for usage of Salesforce Opportunity Scoring 
+- Led the architectural design and implementation of authorization of tenant data collection for generation of global models and for allowing usage of those models
 - Designed solution for allowing all microservices to use AWS STS token and gain access to only requested resources on AWS S3
 - Designed solution for tenant org migrations from one AWS region to another
-- Devised the entire architecture of 
-- Devised the entire architecture of FuzzTesting alongside Build verificaiton Tests
+- Devised the entire architecture of automated FuzzTesting of CRM Soap APIs alongside build verification tests.
