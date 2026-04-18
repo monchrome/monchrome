@@ -17,7 +17,7 @@ I am Monika Borgaonkar
 - https://www.microsoft.com/en-us/download/details.aspx?id=2684  ⇒ Contributed content for this white paper, explaining how ACtive Directory federation Service is to be used for Internet facing deployment of Dynamics CRM 
 - https://medium.com/@davinciwords/http-connection-pooling-handling-post-redirects-as-post-c908266768b2 ⇒ Published this article based on some observations w.r.t a production incident observed in Salesforce.
 
-**Major Feature Contributions & Creator of -**
+**Major Creations and Significant Contributions -**
 - Started the first single person security team in Microsoft Dynamics CRM and grew the team to span across multiple offices and also managed Performance team for 
  entire Microsoft Dynamics CRM.
 - Established cross product collaboration practices for security and performance acros Microsoft Dynamics CRM, Sharepoint and Microsoft Office security teams.
