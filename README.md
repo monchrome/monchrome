@@ -33,12 +33,12 @@ I am Monika Borgaonkar
 - Implemented Cloud to Cloud Authentication backend modules for Authenticating requests between Salesforce and AWS services and between Core and Einstein cloud of Salesforce.
 
 **Major Architectural Contributions -**
-- Led the architectural design and implementation of fintech & issuer Billing service at Visa Inc.
-- Led the architectural design and implementation of fintech authorizations for allowing usage of VISA APIs.
+- Delivered architectural design and implementation of fintech & issuer Billing service at Visa Inc.
+- Delivered architectural design and implementation of fintech authorizations for allowing usage of VISA APIs.
 - Devised the architecture of CRVAgent (a tool that will fix CVE's for containerized applications.)
-- Led the architectural design and implementation of sandboxing content uploads before they are deemed secure for further distribution
-- Led the architectural design and implementation of verification of user/feature permissions for usage of Salesforce Opportunity Scoring 
-- Led the architectural design and implementation of authorization of tenant data collection for generation of global models and for allowing usage of those models
+- Implemented architectural design, implementation of sandboxing content uploads before they are deemed secure for further distribution
+- Designed the overall arcitecture and implementation of authZ model for Salesforce Opportunity Scoring 
+- Designed the overall arcitecture and implementation of authZ model for global model trainings and allow cross tenant data collection into global model usage.
 - Designed solution for allowing all microservices to use AWS STS token and gain access to only requested resources on AWS S3
 - Designed solution for tenant org migrations from one AWS region to another
 - Devised the entire architecture of automated Fuzzers for CRM Soap APIs.
