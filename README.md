@@ -14,7 +14,7 @@ I am Monika Borgaonkar
 **Major Publications -** 
 - https://www.microsoft.com/en-us/download/details.aspx?id=12108 ⇒ Contributed content to this white paper explaining authN, authZ and overall security model implemented in Dynamics CRM.
 - https://www.microsoft.com/en-us/download/details.aspx?id=12774  ⇒ Contributed content for this white paper w.r.t firewall connectivity for onpremise setups of Dynamics CRM.
-- https://www.microsoft.com/en-us/download/details.aspx?id=2684  ⇒ Contributed content for this white paper, explaining how ACtive Directory federation Service is to be used for Internet facing deployment of Dynamics CRM 
+- https://www.microsoft.com/en-us/download/details.aspx?id=2684  ⇒ Contributed content for this white paper, explaining how Active Directory Federation Service(ADFS) is to be used for Internet facing deployment of Dynamics CRM.
 - https://medium.com/@davinciwords/http-connection-pooling-handling-post-redirects-as-post-c908266768b2 ⇒ Published this article based on some observations w.r.t a production incident observed in Salesforce.
 
 **Major Creations and Significant Contributions -**
@@ -36,10 +36,10 @@ I am Monika Borgaonkar
 - Delivered architectural design and implementation of fintech & issuer Billing service at Visa Inc.
 - Delivered architectural design and implementation of fintech authorizations for allowing usage of VISA APIs.
 - Devised the architecture of CRVAgent (a tool that will fix CVE's for containerized applications.)
-- Implemented architectural design, implementation of sandboxing content uploads before they are deemed secure for further distribution
-- Designed the overall arcitecture and implementation of authZ model for Salesforce Opportunity Scoring 
+- Implemented architectural design, implementation of sandboxing content uploads before they are deemed secure for further distribution.
+- Designed the overall arcitecture and implementation of authZ model for Salesforce Opportunity Scoring. 
 - Designed the overall arcitecture and implementation of authZ model for global model trainings and allow cross tenant data collection into global model usage.
-- Designed solution for allowing all microservices to use AWS STS token and gain access to only requested resources on AWS S3
-- Designed solution for tenant org migrations from one AWS region to another
+- Designed solution for allowing all microservices to use AWS STS token and gain access to only requested resources on AWS S3.
+- Designed solution for tenant org migrations from one AWS region to another.
 - Devised the entire architecture of automated Fuzzers for CRM Soap APIs.
 
