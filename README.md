@@ -18,10 +18,11 @@ I am Monika Borgaonkar
 - https://medium.com/@davinciwords/http-connection-pooling-handling-post-redirects-as-post-c908266768b2 ⇒ Published this article based on some observations w.r.t a production incident observed in Salesforce.
 
 **Major Creations and Significant Contributions -**
-- Started the first single person security team in Microsoft Dynamics CRM and grew the team to span across multiple offices and also managed Performance team for 
- entire Microsoft Dynamics CRM.
-- Established cross product collaboration practices for security and performance acros Microsoft Dynamics CRM, Sharepoint and Microsoft Office security teams.
-- Creator of SQLInjector, XSSSentinelInjector, SoapAPIFuzzer infrastructure to verify security during daily software builds and several other tools and services.
+- Started the first single person security team in Microsoft Dynamics CRM and grew the team to 10.
+- Based on my handling of Security team was asked to lead Performance for entire Microsoft Dynamics CRM.
+- Established cross product collaboration practices for security and performance across Microsoft Dynamics CRM, Sharepoint and Microsoft Office security teams.
+- Creator of SQLInjector, XSSSentinelInjector, SoapAPIFuzzer infrastructure that would help unveal security issues in daily software builds.
+- Contributed both in terms of design, secure config, setup on many aspects to make  Dynamics CRM online a secure online service from day 1.
 - Contributed majorly towards fulfilling software design requirements for ISO-9001, FedRAMP, GDPR complaince related security and privacy requirements.
 - Pioneered Base and Extension table separation to ease form load times for Dynamics CRM. 
 - Contributed majorly towards integrating High Availability Disaster Recovery(HADR) feature for Dynamics CRM data center failover procedures 
