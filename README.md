@@ -23,7 +23,7 @@ I am Monika Borgaonkar
 - Established cross product collaboration practices for security and performance across Microsoft Dynamics CRM, Sharepoint and Microsoft Office security teams.
 - Creator of SQLInjector, XSSSentinelInjector, SoapAPIFuzzer infrastructure that would help unveal security issues in daily software builds.
 - Contributed both in terms of design, secure config, setup on many aspects to make  Dynamics CRM online a secure online service from day 1.
-- Contributed majorly towards fulfilling software design requirements for ISO-9001, FedRAMP, GDPR complaince related security and privacy requirements.
+- Contributed majorly towards fulfilling software design requirements for ISO-9001, FedRAMP, GDPR compliance related security and privacy requirements.
 - Pioneered Base and Extension table separation to ease form load times for Dynamics CRM. 
 - Contributed majorly towards integrating High Availability Disaster Recovery(HADR) feature for Dynamics CRM data center failover procedures 
  in a manner that they meet 45 mins SLA for failover of 700 tenant databases from one DC to another.
