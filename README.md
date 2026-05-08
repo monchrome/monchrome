@@ -28,7 +28,8 @@ I am Monika Borgaonkar
 - Contributed majorly towards integrating High Availability Disaster Recovery(HADR) feature for Dynamics CRM data center failover procedures 
  in a manner that they meet 45 mins SLA for failover of 700 tenant databases from one DC to another.
 - Completely redesigned content security for Salesforce Communities Platform to prevent Remote code execution, Elevation of Privilege Threats.
-- Primary Developer for Platformization of Opportunity Scoring for Sales Cloud Einstein at Salesforce.
+- Primary Developer/Tech Lead for Platformization of Opportunity Scoring for Sales Cloud Einstein at Salesforce.
+- Designed and Developed Global Model Contributions for AI for Everyone program.
 - Developer of https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_salesaiscorecycle.htm)
 - Developer of https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_salesaiscoremodelfactor.htm
 - Implemented Cloud to Cloud Authentication backend modules for Authenticating requests between Salesforce and AWS services and between Core and Einstein cloud of Salesforce.
