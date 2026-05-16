@@ -21,7 +21,7 @@ I am Monika Borgaonkar
 - Started the first single person security team in Microsoft Dynamics CRM and grew the team to 10.
 - Based on my handling of Security team was asked to lead Performance for entire Microsoft Dynamics CRM.
 - Established cross product collaboration practices for security and performance across Microsoft Dynamics CRM, Sharepoint and Microsoft Office security teams.
-- Creator of SQLInjector, XSSSentinelInjector, SoapAPIFuzzer infrastructure that would help unveal security issues in daily software builds.
+- Creator of SQLInjector, XSSSentinelInjector, SoapAPIFuzzer infrastructure that would help unveil security issues in daily software builds.
 - Contributed both in terms of design, secure config, setup on many aspects to make  Dynamics CRM online a secure online service from day 1.
 - Contributed majorly towards fulfilling software design requirements for ISO-9001, FedRAMP, GDPR compliance related security and privacy requirements.
 - Pioneered Base and Extension table separation to ease form load times for Dynamics CRM. 
@@ -36,11 +36,11 @@ I am Monika Borgaonkar
 
 **Major Architectural Contributions -**
 - Delivered architectural design and implementation of fintech & issuer Billing service at Visa Inc.
-- Delivered architectural design and implementation of fintech authorizations for allowing usage of VISA APIs.
+- Delivered architectural design and implementation of fintech authorizations for allowing usage of Visa APIs.
 - Devised the architecture of CRVAgent (a tool that will fix CVE's for containerized applications.)
 - Implemented architectural design, implementation of sandboxing content uploads before they are deemed secure for further distribution.
-- Designed the overall arcitecture and implementation of authZ model for Salesforce Opportunity Scoring. 
-- Designed the overall arcitecture and implementation of authZ model for global model trainings and allow cross tenant data collection into global model usage.
+- Designed the overall architecture and implementation of authZ model for Salesforce Opportunity Scoring. 
+- Designed the overall architecture and implementation of authZ model for global model trainings and allow cross tenant data collection into global model usage.
 - Designed solution for allowing all microservices to use AWS STS token and gain access to only requested resources on AWS S3.
 - Designed solution for tenant org migrations from one AWS region to another.
 - Devised the entire architecture of automated Fuzzers for CRM Soap APIs.
