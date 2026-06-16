@@ -17,7 +17,7 @@ I am Monika Borgaonkar
 - https://www.microsoft.com/en-us/download/details.aspx?id=2684  ⇒ Contributed content for this white paper, explaining how Active Directory Federation Service(ADFS) is to be used for Internet facing deployment of Dynamics CRM.
 - https://medium.com/@davinciwords/http-connection-pooling-handling-post-redirects-as-post-c908266768b2 ⇒ Published this article based on some observations w.r.t a production incident observed in Salesforce.
 
-** AI Agents Implemented -**
+**AI Agents Implemented -**
 - Developed a Claude based AI-driven agent to perform automated billing tallying, reducing manual audit overhead and improving data accuracy.
 - Built a custom Python based agent integrated with an in-house git hub MCP server to autonomously identify and patch CVE-based vulnerabilities across codebase repositories.
 - Built a reflective agent that could convert Java code to Kotlin.
