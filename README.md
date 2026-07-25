@@ -11,12 +11,14 @@ I am Monika Borgaonkar
 - Love light hikes and playing board games.
 - Love reading tech blogs.
 
-**AI Agents Implemented -**
-- Developed a Claude based AI-driven agent to perform automated billing tallying, reducing manual audit overhead and improving data accuracy.
-- Built a custom Python based agent integrated with an in-house git hub MCP server to autonomously identify and patch CVE-based vulnerabilities across codebase repositories.
-- Built a reflective agent that could convert Java code to Kotlin.
-- Built a System prompt migrator service to do semantic migration of system prompts from a source LLM to a target LLM's.  Syntax, formatting idioms, verbosity, system-instruction placement, JSON-format enforcement, and chain-of-thought style all vary drastically between model families — so the rewrite is performed by the target
-model itself.
+**AI Agents/MCP/Projects Implemented -**
+- BillTally&Reconcile - Developed a Claude based AI-driven agent to perform automated billing tallying, reducing manual audit overhead and improving data accuracy. A custom Claude-based agent is a specialized, reusable AI assistant powered by Anthropic's Claude models. Tech Stack - Python, LangChain, Claude Opus 4.8, Custom tools calling CBE APIs.
+- CVRAgent - Built a custom Python based agent integrated with an in-house git hub MCP server to autonomously identify and patch CVE-based vulnerabilities across codebase repositories. Tech Stack - Python, LangChain, inhouse GitHub MCP Server.
+- ReflectiveAgent - Built a  Kotlin-> Java code migration agent using reflective agentic pattern. Tech Stack - Java, Claude Sonnet (for generation) and Claude Opus 4.8 (for reflection). Models can be preset via configuration.
+- SystemPromptMigrator - Built a System prompt migrator service to do semantic migration of system prompts from a source LLM to a target LLM.  Syntax, formatting idioms, verbosity, system-instruction placement, JSON-format enforcement, and chain-of-thought style all vary drastically between model families — so the rewrite is performed by the target
+model itself. Tech Stack - Python, Fast API, Pydantic.
+- RAGForTaxChatBots (in progress) - Neo4J Graph based RAG and a chatbot to answer questions related to CA personal taxation. Tech Stack - Neo4J, ChromaDB/Voyage AI, Ollama nomic-embed-text, Claude Opus 4.8., LangChain, RecursiveCharacterTextSplitter
+-  sfdcmcpsrv - A Java-Spring Boot custom MCP server that exposes Salesforce REST API operations to AI clients. Tech Stack - Java 25, Spring Boot 4.1.0, Spring AI 2.0.0. Needs a Salesforce Connected App/equivalent.
 
 **Major Publications -** 
 - https://www.microsoft.com/en-us/download/details.aspx?id=12108 ⇒ Contributed content to this white paper explaining authN, authZ and overall security model implemented in Dynamics CRM.
