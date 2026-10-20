@@ -54,3 +54,5 @@ model itself. Tech Stack - Python, Fast API, Pydantic.
 - Designed solution for tenant org migrations from one AWS region to another.
 - Devised the entire architecture of automated Fuzzers for CRM Soap APIs.
 
+**AI Projects Completed with Mccombs School of Business, University of Texas At Austin -**
+https://www.mygreatlearning.com/eportfolio/monika-borgaonkar
